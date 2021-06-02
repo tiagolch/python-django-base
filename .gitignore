@@ -1,0 +1,6 @@
+venv
+manage.py
+db.sqlite3
+.idea
+Dockerfile
+docker-compose.yml
